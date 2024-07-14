@@ -19,7 +19,7 @@ const contentMap = [
     },
     {
         gif: "https://64.media.tumblr.com/0ba83e8e9608b31baf5c5af6d9c66d2d/12056b2e0eb650a7-5a/s540x810/77c470d0e37ae607e338a59041b9b477e93316d7.gifv",
-        text: "I like Pinterest, here's my favourite moodboards",
+        text: "I like Pinterest, here are my favourite moodboards",
         images: [
             { src: "assets/pinterest.png", url: "https://in.pinterest.com/mayanksharma08june/calming-water/" },  // Replace with actual URL
             { src: "assets/pinterest2.png", url: "https://in.pinterest.com/mayanksharma08june/indian-art/" },  // Replace with actual URL
